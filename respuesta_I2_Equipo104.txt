@@ -1,1 +1,6 @@
+A)
+Utilizo los siguientes comandos:
 
+Git pull https://github.com/KevinPlucci/TP_SO_i2_Equipo104
+
+B)Si
