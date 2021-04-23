@@ -10,3 +10,65 @@ B)Si.
 C)Si.
 
 D)No.
+
+E)
+Punto 2)
+
+GAMMA (Kevin Plucci):
+
+git init 
+git clone https://github.com/KevinPlucci/TP_SO_i2_Equipo104.git 
+cd TP_SO_i2_Equipo104.git
+git add .
+git commit -m "Gamma modifica el archivo fork.txt, agregando su nombre, apellido, ip y hora"
+git push
+
+Punto 3)
+
+ALFA (Lucio Gonzalez):
+
+git init 
+git clone https://github.com/lucio1500/TP_SO_i2_Equipo104.git 
+cd TP_SO_i2_Equipo104.git
+git add .
+git commit -m "Alfa modifica el archivo fork.txt agregando nombre, apellido, ip y hora"
+git push
+
+Punto 4)
+
+BETA (Kevin Plucci):
+git init 
+git clone https://github.com/KevinPlucci/TP_SO_i2_Equipo104.git 
+cd TP_SO_i2_Equipo104.git
+git add .
+git commit -m "Beta agrega el archivo llamado NuevoDato.txt"
+git push
+
+Punto 5)
+
+GAMMA (Kevin Plucci) y ALFA (Lucio Gonzalez):
+
+git pull https://github.com/KevinPlucci/TP_SO_i2_Equipo104.git
+
+Punto 6)
+
+GAMMA (Kevin Plucci): 
+
+git add . 
+git commit -m "Gamma sube las respuestas A y B"
+git push
+
+Punto 7)
+
+BETA (Kevin Plucci):
+
+git commit -m "Beta sube las respuestas C y D"
+git push
+
+
+Punto 8)
+
+ALFA (Lucio Gonzalez):
+
+git commit -m "Alfa sube la respuesta E"
+git push
